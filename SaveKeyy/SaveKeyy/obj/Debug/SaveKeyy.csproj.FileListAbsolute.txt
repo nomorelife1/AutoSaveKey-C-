@@ -1,0 +1,10 @@
+C:\Users\NoMoreLife\source\repos\SaveKeyy\SaveKeyy\bin\Debug\SaveKeyy.exe.config
+C:\Users\NoMoreLife\source\repos\SaveKeyy\SaveKeyy\bin\Debug\SaveKeyy.exe
+C:\Users\NoMoreLife\source\repos\SaveKeyy\SaveKeyy\bin\Debug\SaveKeyy.pdb
+C:\Users\NoMoreLife\source\repos\SaveKeyy\SaveKeyy\obj\Debug\SaveKeyy.csproj.AssemblyReference.cache
+C:\Users\NoMoreLife\source\repos\SaveKeyy\SaveKeyy\obj\Debug\SaveKeyy.Form1.resources
+C:\Users\NoMoreLife\source\repos\SaveKeyy\SaveKeyy\obj\Debug\SaveKeyy.Properties.Resources.resources
+C:\Users\NoMoreLife\source\repos\SaveKeyy\SaveKeyy\obj\Debug\SaveKeyy.csproj.GenerateResource.cache
+C:\Users\NoMoreLife\source\repos\SaveKeyy\SaveKeyy\obj\Debug\SaveKeyy.csproj.CoreCompileInputs.cache
+C:\Users\NoMoreLife\source\repos\SaveKeyy\SaveKeyy\obj\Debug\SaveKeyy.exe
+C:\Users\NoMoreLife\source\repos\SaveKeyy\SaveKeyy\obj\Debug\SaveKeyy.pdb
